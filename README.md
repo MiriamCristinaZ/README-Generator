@@ -17,3 +17,4 @@ To generate a professional README for your project, follow these steps:
 ## Walkthrough Video
 
 The walkthrough video is available at the following link:
+<https://drive.google.com/file/d/1sOqqurYtnBi8gUMD8hFlTqoGcENDuldH/view>
